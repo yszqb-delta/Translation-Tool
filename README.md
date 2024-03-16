@@ -12,6 +12,7 @@ A Translation Tools(Available from English to Chinese)
     ·v1.0.0---发布了主程序
     ·v1.0.2---主要更新:修复了单个单词及词组不能翻译的bug
     ·v1.0.2---主要更新:修复了已知bug
+    ·v2.0.5---主要更新:添加了若干功能
 
 English:
 
@@ -22,5 +23,6 @@ English:
         When the program runs, the Google browser will open first, which you can minimize, but don't close.Next, copy the English (word, phrase, sentence, or even paragraph) you want to translate into the clipboard, press the Alt key, and wait for the program to run (the waiting time depends on the total number of sentences, usually within 10 seconds to output the result).
 
     ·v1.0.0---The main program is released.
-    ·v1.0.2--Major Update: Fixed a bug where individual words and phrases could not be translated.
-    ·v1.0.3--Major update: Fixed known bugs.
+    ·v1.0.2---Major Update: Fixed a bug where individual words and phrases could not be translated.
+    ·v1.0.3---Major update: Fixed known bugs.
+    ·v2.0.5---Major update: Several features have been added.
